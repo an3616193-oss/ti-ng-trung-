@@ -1,0 +1,8 @@
+{
+  "name": "Doc Tieng Trung Offline Reader",
+  "description": "Ứng dụng luyện đọc tiếng Trung giản thể 100% offline không cần mạng, kèm Pinyin, âm Hán Việt, tra từ điển tức thì, giọng đọc phát âm chuẩn và sổ từ vựng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
